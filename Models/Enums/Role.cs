@@ -1,8 +1,7 @@
-namespace UserManagementUiDemo.Models.Enums
+namespace UserManagementUiDemo.Models.Enums;
+
+public enum Role
 {
-    public enum Role
-    {
-        Administrator,
-        PowerUser
-    }
+	Administrator,
+	PowerUser
 }
